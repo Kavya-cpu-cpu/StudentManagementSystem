@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎓 Student Management System
 
 ## 📌 Project Description
@@ -92,3 +93,7 @@ Clean layered project structure
 👩‍💻 Author
 Name: Kavya M
 Project: Student Management System (Java + JDBC)
+=======
+# StudentManagementSystem
+Java JDBC Student Management System
+>>>>>>> 4bd2dc23ffd429969bc7ab6ea7a3e0e157f982ba
